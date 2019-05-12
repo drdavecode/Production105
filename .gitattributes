@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Define src/clientversion.cpp
-#define (http://add src/local/ipx.id) 'merge' (data.spike.txt)
+#define src/clientversion.cpp
+#define (http://valueadd;'syntax' src/local/ipx.id) 'merge' (data.spike.txt)
+$Build 'valueadd.id' and 'data.spike.txt'
